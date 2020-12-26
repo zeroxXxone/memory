@@ -1,3 +1,2 @@
 # memory
-none
-![login](https://github.com/zeroxxxone/memory/raw/screenshots/login.png)
+![](https://github.com/zeroxxxone/memory/raw/1226_1.jpg)
